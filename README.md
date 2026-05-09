@@ -15,7 +15,7 @@ My previous work revolves around kernel internals and the ecosystem:
 - Kernel drivers (networking, DMA engines, input subsystems, storage)
 - Maintaining T2/Linux: fixing packages, adding patches
 - Reverse Engineering and Debugging in the late 90s
-- Playing with linux on devices, I currently own: Dreamcast, Playstation 3, Sun Ultra 5, Sun Blade 150, HP Jornada 680, HP c8000, MilkV Duo 256M RISCV, ESP32s3, iCEBreaker FPGA, Raspberry PI 2,3,5, Clockwork uConsole, Apple A1103 Mac Mini, BPI-2K0300 Loong, Ubiquiti EdgeRouter Lite ERLite-3 and USG-PRO-4 (mips64) (I am still looking for Alpha, Itanium and some m68k, just saying 😉 )
+- Playing with linux on devices, I currently own: Dreamcast, Playstation 3, Sun Ultra 5, Sun Blade 150, HP Jornada 680, HP c8000, MilkV Duo 256M RISCV, ESP32s3, iCEBreaker / Mimas V2 Spartan 6 FPGA, Raspberry PI 2,3,5, Clockwork uConsole, Apple A1103 Mac Mini, BPI-2K0300 Loong, Ubiquiti EdgeRouter Lite ERLite-3 and USG-PRO-4 (mips64) (I am still looking for Alpha, Itanium and some m68k, just saying 😉 )
 
 Feel free to get in contact if we share interests or you got issues with some of your vintage systems!
 
