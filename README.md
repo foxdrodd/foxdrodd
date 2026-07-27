@@ -16,7 +16,7 @@ My previous work revolves around kernel internals and the ecosystem:
 - Maintaining T2/Linux: fixing packages, adding patches
 - Reverse Engineering and Debugging in the late 90s
 - Playing with linux on devices, I currently own:
-   - SuperH: [Dreamcast](https://gist.github.com/foxdrodd/ad6a3a186f22297be01a9ad141a2efab), [HP Jornada 680](https://gist.github.com/foxdrodd/27a74fcd00181587e638024c1b6dec4d),  [Mimas V2 Spartan 6 with J2 Soft-Core FPGA](https://gist.github.com/foxdrodd/7219bcff618c20644238c8d496b9849e)
+   - SuperH: [Dreamcast](https://gist.github.com/foxdrodd/ad6a3a186f22297be01a9ad141a2efab), [HP Jornada 680](https://gist.github.com/foxdrodd/27a74fcd00181587e638024c1b6dec4d),  [Mimas V2 Spartan 6 with J2 Soft-Core FPGA](https://gist.github.com/foxdrodd/7219bcff618c20644238c8d496b9849e), [Amino A140](https://gist.github.com/foxdrodd/d0fb5738d39fae3104dd838c8c2c76c8)
    - SPARC64: [Sun Ultra 5](https://gist.github.com/foxdrodd/ad7820140eaeb6bb6de7755828cb6e5a), [Sun Blade 150](https://gist.github.com/foxdrodd/8d31f19a958e3f1746551ccf885f997c)
    - PowerPC64: [Playstation 3](https://gist.github.com/foxdrodd/77a833bdaa4a7cdcfc31c0ff942cbc24),  [Apple A1103 Mac Mini](https://gist.github.com/foxdrodd/65b336d708ed814849d0fc28d245a708)
    - PA-RISC: [HP c8000](https://gist.github.com/foxdrodd/295913fd5d7312f35251975bd6e6a778)
