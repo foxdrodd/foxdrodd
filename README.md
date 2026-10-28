@@ -6,7 +6,7 @@ I enjoy the exploration of vintage computing systems in the context of up-to-dat
 I’m currently working on improving Sega Dreamcast (SuperH), Playstation 3 (PowerPC64) in the linux software ecosystem and the kernel itself. These are communities with already very strong and motivated people, still leaving an opportunity for beginners.
 
 I am very proud of my marginal linux kernel contributions, only possible because I met the most kind and encouraging people in [linux-sh](https://lore.kernel.org/linux-sh/):
-see my contributions in [torvalds/linux](https://github.com/search?q=repo%3Atorvalds%2Flinux+author%3Afoxdrodd&type=commits), it's so much fun!
+see my contributions in [torvalds/linux](https://github.com/search?q=repo%3Atorvalds%2Flinux+author%3Afoxdrodd&type=commits&s=committer-date&o=desc), it's so much fun!
 
 Outside the kernel I enjoy contributing to [T2/Linux](https://github.com/rxrbln/t2sde/commits?author=foxdrodd), the distribution that only supports every CPU architecture ever out there and keeping it the most up-to-date and functional distro for all possible vintage and modern high-end systems.
 
